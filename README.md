@@ -30,4 +30,4 @@ All descriptions are written at a high level for portfolio purposes. No propriet
 
 ---
 
-Profile: [github.com/nguyenngoctuyen11032003](https://github.com/nguyenngoctuyen11032003) · LinkedIn: [Nguyễn Ngọc Tuyền](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-tuy%E1%BB%81n-99b344408/)
+Profile: [github.com/nguyenngoctuyen11032003](https://github.com/nguyenngoctuyen11032003) · LinkedIn: [Nguyễn Ngọc Tuyền](https://www.linkedin.com/in/tuy%E1%BB%81n-nguy%E1%BB%85n-ng%E1%BB%8Dc-40432243b/)
