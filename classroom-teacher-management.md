@@ -1,12 +1,12 @@
-# HRM — Human Resource Management System
+# Classroom & Teacher Management System
 
 > Proprietary project — case study only, no source code.
 
 ## Overview
 
-An internal human resource management platform that supports organizational and employee management processes.
+An internal system for managing classrooms and teachers (enterprise project, 2025).
 
-**Problem:** Organizations need a central system to manage employee information and HR-related workflows instead of relying on scattered manual processes.
+**Problem:** Managing classrooms and teacher information manually is slow and error-prone.
 
 **Solution:** A web-based system developed by the team to support these processes, which I contributed to as a full-stack developer.
 
@@ -17,29 +17,30 @@ Full-Stack Developer in a development team. The system architecture and technica
 ## Responsibilities
 
 - Full-stack feature development across frontend, backend, and database
-- Implementing server-side features and JSP pages for HR workflows
+- Building and integrating REST APIs
 - Implementing business logic from functional requirements
-- Bug fixing and maintenance of existing modules
+- Bug fixing and maintenance
 
 ## Key Features
 
 Described at a high level to avoid disclosing confidential details:
 
-- Employee and organization management workflows
-- Internal HR process management
-- Business logic for HR-related processes
+- Classroom management
+- Teacher management
+- Internal administrative workflows
 
 ## Technology Stack
 
 | Layer | Technologies |
 | --- | --- |
-| Language | Java |
-| Web layer | JSP (JavaServer Pages) |
+| Frontend | Next.js, React, TypeScript |
+| Backend | NestJS, Node.js, REST API |
+| Database | PostgreSQL |
 | Collaboration | Git, GitHub |
 
 ## Architecture
 
-A Java web application with server-rendered JSP pages. Detailed architecture is not published for confidentiality reasons.
+A web application with a separate frontend and backend communicating through REST APIs, backed by a relational database. Detailed architecture is not published for confidentiality reasons.
 
 ## Development
 

@@ -9,6 +9,7 @@ Most of these projects are proprietary. This repository contains **no source cod
 | Project | Domain | Case study |
 | --- | --- | --- |
 | HRM — Human Resource Management System | Enterprise / HR | [hrm-system.md](hrm-system.md) |
+| Classroom & Teacher Management System | Enterprise / Education | [classroom-teacher-management.md](classroom-teacher-management.md) |
 | CRM — Customer Relationship Management | Enterprise / Sales & operations | [crm-system.md](crm-system.md) |
 | ERP — Hotel / Enterprise Management System | Enterprise / Hospitality | [erp-hotel-management.md](erp-hotel-management.md) |
 | E-Learning Platform | Education | [e-learning-platform.md](e-learning-platform.md) |
